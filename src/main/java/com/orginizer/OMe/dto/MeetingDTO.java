@@ -7,6 +7,7 @@ import lombok.Setter;
 import java.time.LocalDateTime;
 @Getter
 @Setter
+//Just a simple comment
 public class MeetingDTO {
     private Long meetingId;
     private String meetingName;
